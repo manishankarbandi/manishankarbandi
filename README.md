@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manishankarbandi
 - 👀 I’m interested in Space Technology
 - 🌱 I’m currently learning Data Structures
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on 
 - 📫 Here to reach me -> manishankarbandi.2300@gmail.com
 
 <!---
